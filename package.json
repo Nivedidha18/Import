@@ -1,0 +1,47 @@
+{
+  "homepage": "https://nivedidha18.github.io/Webs",
+  "name": "portf",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "framer-motion": "^10.12.16",
+    "install": "^0.13.0",
+    "next": "^13.4.4",
+    "next-on-netlify": "^3.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^4.9.0",
+    "react-particles-js": "^3.6.0",
+    "react-router-dom": "^6.11.2",
+    "react-scripts": "5.0.1",
+    "react-speech": "^1.0.2",
+    "react-speech-kit": "^3.0.1",
+    "styled-components": "^5.3.11",
+    "styled-normalize": "^8.0.7",
+    "three": "^0.153.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build && next export",
+    "export": "next export"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
